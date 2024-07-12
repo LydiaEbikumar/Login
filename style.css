@@ -1,0 +1,66 @@
+.container{
+    margin: 30px;
+}
+.img{
+    float: left;
+    position: absolute;
+    z-index: -1;
+    margin-top: 10px;
+    margin-bottom: 70px;
+    width:600px;
+    height: 580px;
+   
+}
+.p1{
+    text-align: center;
+    font-weight: bolder;
+    font-style: italic;
+    margin-top: 10px;
+    color:black;
+}
+.p2{
+    text-align: center;
+    font-weight: bold;
+    color:black;
+}
+.welcome{
+    margin-top: 40px;
+    text-align: center;
+    color: rgb(37, 37, 31);
+    padding: 10px;
+}
+.p3{
+    text-align: center;
+}
+form{
+    text-align: center;
+    font-weight: bold;
+
+}
+.p4{
+    text-align: center;
+    padding-left: 100px;
+    font-size: x-small;
+}
+.login{
+   margin-top: 10px;
+   background-color:rgb(49, 129, 215);
+   padding-right: 10px;
+   padding-left: 10px;
+
+
+}
+.or{
+    margin-top: 10px;
+}
+.p5{
+    margin-top: 10px; 
+}
+.p6{
+    color: blue;
+    text-decoration: underline;
+}
+input{
+    padding-right: 20px;
+    padding-left: 20px;
+}
